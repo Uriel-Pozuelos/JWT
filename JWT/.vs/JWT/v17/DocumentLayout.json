@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uriel\\source\\repos\\JWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29F61E45-9D09-4FD7-B480-5A98B8654F2D}|JWT\\JWT.csproj|c:\\users\\uriel\\source\\repos\\jwt\\jwt\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F61E45-9D09-4FD7-B480-5A98B8654F2D}|JWT\\JWT.csproj|solutionrelative:jwt\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F61E45-9D09-4FD7-B480-5A98B8654F2D}|JWT\\JWT.csproj|c:\\users\\uriel\\source\\repos\\jwt\\jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F61E45-9D09-4FD7-B480-5A98B8654F2D}|JWT\\JWT.csproj|solutionrelative:jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F61E45-9D09-4FD7-B480-5A98B8654F2D}|JWT\\JWT.csproj|c:\\users\\uriel\\source\\repos\\jwt\\jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29F61E45-9D09-4FD7-B480-5A98B8654F2D}|JWT\\JWT.csproj|solutionrelative:jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F61E45-9D09-4FD7-B480-5A98B8654F2D}|JWT\\JWT.csproj|c:\\users\\uriel\\source\\repos\\jwt\\jwt\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F61E45-9D09-4FD7-B480-5A98B8654F2D}|JWT\\JWT.csproj|solutionrelative:jwt\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F61E45-9D09-4FD7-B480-5A98B8654F2D}|JWT\\JWT.csproj|c:\\users\\uriel\\source\\repos\\jwt\\jwt\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F61E45-9D09-4FD7-B480-5A98B8654F2D}|JWT\\JWT.csproj|solutionrelative:jwt\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F61E45-9D09-4FD7-B480-5A98B8654F2D}|JWT\\JWT.csproj|c:\\users\\uriel\\source\\repos\\jwt\\jwt\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F61E45-9D09-4FD7-B480-5A98B8654F2D}|JWT\\JWT.csproj|solutionrelative:jwt\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F61E45-9D09-4FD7-B480-5A98B8654F2D}|JWT\\JWT.csproj|c:\\users\\uriel\\source\\repos\\jwt\\jwt\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F61E45-9D09-4FD7-B480-5A98B8654F2D}|JWT\\JWT.csproj|solutionrelative:jwt\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\uriel\\source\\repos\\JWT\\JWT\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "JWT\\DTOs\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\uriel\\source\\repos\\JWT\\JWT\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "JWT\\DTOs\\AuthResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:41:43.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\uriel\\source\\repos\\JWT\\JWT\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT\\appsettings.json",
+              "ToolTip": "C:\\Users\\uriel\\source\\repos\\JWT\\JWT\\appsettings.json",
+              "RelativeToolTip": "JWT\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T03:39:38.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\uriel\\source\\repos\\JWT\\JWT\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "JWT\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\uriel\\source\\repos\\JWT\\JWT\\Models\\AppUser.cs",
+              "RelativeToolTip": "JWT\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:54:59.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\uriel\\source\\repos\\JWT\\JWT\\DTOs\\TokenDto.cs",
+              "RelativeDocumentMoniker": "JWT\\DTOs\\TokenDto.cs",
+              "ToolTip": "C:\\Users\\uriel\\source\\repos\\JWT\\JWT\\DTOs\\TokenDto.cs",
+              "RelativeToolTip": "JWT\\DTOs\\TokenDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:54:26.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\uriel\\source\\repos\\JWT\\JWT\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "JWT\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\uriel\\source\\repos\\JWT\\JWT\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "JWT\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwDEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T01:12:22.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uriel\\source\\repos\\JWT\\JWT\\Program.cs",
+              "RelativeDocumentMoniker": "JWT\\Program.cs",
+              "ToolTip": "C:\\Users\\uriel\\source\\repos\\JWT\\JWT\\Program.cs",
+              "RelativeToolTip": "JWT\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:46:49.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\uriel\\source\\repos\\JWT\\JWT\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "JWT\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\uriel\\source\\repos\\JWT\\JWT\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "JWT\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAJoBAAAAAAAAAAA2wJ0BAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T00:20:03.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
